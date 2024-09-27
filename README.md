@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://udemy-certificate.s3.amazonaws.com/image/UC-61a89d13-c23a-4ca3-bca4-19d75a78742e.jpg?v=1727007817000"  />
+  <img height="500" src="https://udemy-certificate.s3.amazonaws.com/image/UC-61a89d13-c23a-4ca3-bca4-19d75a78742e.jpg?v=1727007817000"  />
 </div>
 
 ###
